@@ -7,7 +7,7 @@ int a,b,c;
 scanf("%d %d %d", &a, &b, &c ); // take three input 
 if(a>b && a>c)
 {
-    printf("Minimum = %d", a);
+    printf("Max = %d", a);
 }
 else if (b>c && b>a) 
 {
