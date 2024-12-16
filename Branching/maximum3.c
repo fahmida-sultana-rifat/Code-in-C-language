@@ -9,7 +9,7 @@ if(a>b && a>c)
 {
     printf("Minimum = %d", a);
 }
-else if (b>c & b>a) 
+else if (b>c && b>a) 
 {
     printf("Max = %d", b);
 }
